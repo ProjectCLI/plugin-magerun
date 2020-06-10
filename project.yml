@@ -1,0 +1,6 @@
+commands:
+  - \ProjectCLI\Magerun\Commands\MagerunCommand
+description: 'Tools for managing Magento projects and installations'
+name: projectcli/magerun
+type: null
+version: v1.0.0
